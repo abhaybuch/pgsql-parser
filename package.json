@@ -29,6 +29,7 @@
     "lerna": "3.22.1",
     "prettier": "2.1.2"
   },
+  "os": ["!win32"],
   "workspaces": [
     "packages/*"
   ],
